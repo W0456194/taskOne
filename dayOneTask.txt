@@ -1,0 +1,37 @@
+Write a blog on the difference between document and window object.
+
+Document object 
+Document object simply represents the HTML or a document which is being displayed.
+With access to document object we can dynamically manipulate the HTML.
+
+Window object
+Window object represents the primary object of a browser, also within this a document object is displayed.
+once when the document is displayed on the browser a window object is created.
+
+Document object 
+This object is displayed under the window.
+
+Window object
+this object is displayed under the browser.
+
+Document object 
+document is a object under the window object.
+document object is a object of the window object.
+
+Window object
+Window is the main root object of the document
+window object is a object of the browser object.
+
+Document object 
+syntax to access the document object is window.document.
+
+Window object
+syntax to access the document object is window.property.
+
+Document object 
+syntax for document properties is window.document.property.
+
+Window object
+syntax for document properties is window.property.
+
+
